@@ -1,0 +1,13 @@
+name: coin_toss
+version: 0.1.0
+
+authors:
+  - Blake Costa <blakecosta117@gmail.com>
+
+targets:
+  coin_toss:
+    main: src/coin_toss.cr
+
+crystal: '>= 1.13.3'
+
+license: MIT
