@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Blake Costa](https://github.com/your-github-user) - creator and maintainer
+- [dogwaterdev1](https://github.com/dogwaterdev1) - creator and maintainer
